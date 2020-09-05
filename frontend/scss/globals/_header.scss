@@ -32,7 +32,6 @@ $height__nav: 60px;
 .header {
   background:$color__header;
   color:$color__text--light;
-  padding-bottom:50px;
   @include monospaced-figures('off'); // dont use monospaced figures here
 }
 
